@@ -1,2 +1,2 @@
 # hello-world-
-Getting starting with git and github
+MY name is Abdulrauf Sheriffdeen Ayodele and i am passionate about web development and technical writing
